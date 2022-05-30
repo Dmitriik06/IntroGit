@@ -5,3 +5,5 @@ First change of file
 Second change in slave_branch
 
 Third change in slave_branch
+
+Fourth change in slave_branch
