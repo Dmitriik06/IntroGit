@@ -6,4 +6,6 @@ Second change in slave_branch
 
 Third change in slave_branch
 
-These change performed after merge
+This change performed after merge
+
+This is final change of file
