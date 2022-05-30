@@ -8,4 +8,4 @@ Third change in slave_branch
 
 This change performed after merge
 
-This is final change of file
+This is final change of filegit
