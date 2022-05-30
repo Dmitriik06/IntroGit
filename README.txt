@@ -9,3 +9,5 @@ Third change in slave_branch
 This change performed after merge
 
 This is final change of filegit
+
+HELLO FROM THE REMOTE REPOSITORY
